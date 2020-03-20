@@ -33,7 +33,7 @@ education:
   - course: PhD in Mathematics
     institution: Institute of Mathematics, Kyiv, Ukraine
     year: 2004
-  - course: MSc in Mathematics (with distinction)
+  - course: MSc in Mathematics
     institution: Kyiv National Taras Shevchenko University 
     year: 2000
 
