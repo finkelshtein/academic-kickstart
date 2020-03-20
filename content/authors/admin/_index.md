@@ -18,12 +18,12 @@ organizations:
   url: "https://www.swansea.ac.uk/staff/science/maths/d.l.finkelshtein/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My main research interests are in theory of complex systems and, therefore, they are in the interplay of mathematical physics, functional analysis, PDE, and probability theory. In particular, I have worked on problems dealing with infinite-dimensional analysis, applications of methods of functional analysis and probability theory to mathematical physics, Gibbs measures, point processes, stochastic dynamics and scaling limits, mathematical biology. Currently, I am actively working in the study of non-local evolution equations arising as (mesoscopics) limits for dynamics of the considered complex systems.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Complex Systems
+- Infinite-Dimensional Analysis
+- Non-local Evolution Equations
 
 education:
   courses:
