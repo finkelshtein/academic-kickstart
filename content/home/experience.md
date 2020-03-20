@@ -18,27 +18,67 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Assoiciate Professor"
+  company = "Swansea University"
+  company_url = "https://www.swansea.ac.uk/"
+  location = "Swansea, UK"
+  date_start = "2020-03-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+#  description = """
+#  Responsibilities include:
+#  
+#  * Research
+#  * Teaching
+#  * First Year Cohort Tutoring
+#  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Senior Lecturer"
+  company = "Swansea University"
+  company_url = "https://www.swansea.ac.uk/"
+  location = "Swansea, UK"
+  date_start = "2017-03-01"
+  date_end = "2020-02-28"
+
+[[experience]]
+  title = "Lecturer"
+  company = "Swansea University"
+  company_url = "https://www.swansea.ac.uk/"
+  location = "Swansea, UK"
+  date_start = "2013-09-01"
+  date_end = "2017-02-28"
+
+[[experience]]
+  title = "Scientific Fellow"
+  company = "Bielefeld University"
+  company_url = "https://www.uni-bielefeld.de/"
+  location = "Bielefeld, Germany"
+  date_start = "2013-03-01"
+  date_end = "2013-08-30"
+
+[[experience]]
+  title = "Senior Research Fellow"
+  company = "Institute of Mathematics"
+  company_url = "http://www.imath.kiev.ua/?lang=en"
+  location = "Kyiv, Ukraine"
+  date_start = "2009-09-01"
+  date_end = "2013-02-28"
+
+[[experience]]
+  title = "Research Fellow"
+  company = "Institute of Mathematics"
+  company_url = "http://www.imath.kiev.ua/?lang=en"
+  location = "Kyiv, Ukraine"
+  date_start = "2008-01-01"
+  date_end = "2009-08-30"
+
+[[experience]]
+  title = "Junior Research Fellow"
+  company = "Institute of Mathematics"
+  company_url = "http://www.imath.kiev.ua/?lang=en"
+  location = "Kyiv, Ukraine"
+  date_start = "2003-12-01"
+  date_end = "2007-12-01"
+
 
 +++

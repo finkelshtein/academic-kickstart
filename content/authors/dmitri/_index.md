@@ -23,7 +23,9 @@ bio: My research is mainly about the topics in Analysis, PDE, Mathematical Physi
 interests:
 - Complex Systems
 - Infinite-Dimensional Analysis
+- Point Processes
 - Non-local Evolution Equations
+- Population Ecology
 
 education:
   courses:
@@ -73,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-I'm an Associate Professor at Swansea University, UK.
+I'm an Associate Professor at the <a href="https://www.swansea.ac.uk/maths/" target="_blank">Department of Mathematics</a> in <a href="https://www.swansea.ac.uk/" target="_blank">Swansea University</a>.
 
 My research is mainly about the topics in analysis, PDE, mathematical physics, and probability inspired by and used in the theory of complex systems. 
 
