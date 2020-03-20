@@ -4,7 +4,7 @@ name: Dmitri Finkelshtein
 
 # Username (this should match the folder name)
 authors:
-- admin
+- dmitri
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.swansea.ac.uk/staff/science/maths/d.l.finkelshtein/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main research interests are in theory of complex systems and, therefore, they are in the interplay of mathematical physics, functional analysis, PDE, and probability theory. In particular, I have worked on problems dealing with infinite-dimensional analysis, applications of methods of functional analysis and probability theory to mathematical physics, Gibbs measures, point processes, stochastic dynamics and scaling limits, mathematical biology. Currently, I am actively working in the study of non-local evolution equations arising as (mesoscopics) limits for dynamics of the considered complex systems.
+bio: My research is mainly about the topics in Analysis, PDE, Mathematical Physics, and Probability inspired by and used in the theory of Complex Systems. 
 
 interests:
 - Complex Systems
@@ -54,11 +54,14 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=GadpZqoAAAAJ&hl=en
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/search/?searchtype=author&query=Finkelshtein%2C+D
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,8 +73,8 @@ user_groups:
 - Visitors
 ---
 
-I am an Associate Professor of Swansea University.
+I'm an Associate Professor of Swansea University.
 
-My main research interests are in theory of complex systems and, therefore, they are in the interplay of mathematical physics, functional analysis, PDE, and probability theory. welcome
+My research is mainly about the topics in analysis, PDE, mathematical physics, and probability inspired by and used in the theory of complex systems. 
 
-In particular, I have worked on problems dealing with infinite-dimensional analysis, applications of methods of functional analysis and probability theory to mathematical physics, Gibbs measures, point processes, stochastic dynamics and scaling limits, mathematical biology. Currently, I am actively working in the study of non-local evolution equations arising as (mesoscopics) limits for dynamics of the considered complex systems.
+I have dealt with infinite-dimensional analysis, applications of methods of functional analysis and probability theory to mathematical physics, Gibbs measures, point processes, stochastic dynamics and scaling limits, mathematical biology. Currently, I am actively working in the study of non-local evolution equations arising as scaling limits for dynamics of the considered complex systems.
