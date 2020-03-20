@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: DSc (Habilitation) in Mathematics
+    institution: Institute of Mathematics, Kyiv, Ukraine
+    year: 2014
+  - course: PhD in Mathematics
+    institution: Institute of Mathematics, Kyiv, Ukraine
+    year: 2004
+  - course: MSc in Mathematics (with distinction)
+    institution: Kyiv National Taras Shevchenko University 
+    year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
