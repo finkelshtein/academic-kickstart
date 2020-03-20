@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Swansea University
+  url: "https://www.swansea.ac.uk/staff/science/maths/d.l.finkelshtein/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
