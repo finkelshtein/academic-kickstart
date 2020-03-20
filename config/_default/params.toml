@@ -22,7 +22,7 @@ font = "myfont"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "M"
+font_size = "S"
 
 ############################
 ## Basic Info
@@ -133,7 +133,7 @@ date_format = "Jan 2, 2006"
 time_format = "3:04 PM"
 
 # Address format (choose from the [address_formats] list below or add you own to the list).
-address_format = "en-us"
+address_format = "en-gb"
 
 ############################
 ## Advanced
@@ -150,7 +150,7 @@ section_pager = false
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Link authors to their profile page? (true/false)
 link_authors = true
@@ -198,7 +198,7 @@ plugins_js  = []
   #   4: Citation (publications only)
   post_view = 2
   publication_view = 2
-  talk_view = 2
+  talk_view = 3
 
 ############################
 ## Comments

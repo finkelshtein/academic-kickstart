@@ -7,6 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Dopov. Nats. Akad. Nauk Ukr. Mat. Prirodozn. Tekh. Nauki*"
-tags: ["fdl", "relevant", "prio1"]
+# tags: ["fdl", "relevant", "prio1"]
 ---
 

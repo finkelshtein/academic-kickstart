@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*J. Stat. Phys.*"
-tags: ["fdl", "relevant", "prio1"]
+# tags: ["fdl", "relevant", "prio1"]
 doi: "10.1007/s10955-009-9764-7"
 ---
 

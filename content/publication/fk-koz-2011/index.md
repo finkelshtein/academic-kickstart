@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Discrete and Cont. Dynam. Syst. - Ser A.*"
-tags: ["fdl", "relevant", "prio1"]
+# tags: ["fdl", "relevant", "prio1"]
 doi: "10.3934/dcds.2013.33.1431"
 ---
 
