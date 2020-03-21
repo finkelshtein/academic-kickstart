@@ -77,7 +77,7 @@ user_groups:
 
 I'm an Associate Professor in the <a href="https://www.swansea.ac.uk/maths/" target="_blank">Department of Mathematics</a> at <a href="https://www.swansea.ac.uk/" target="_blank">Swansea University</a>.
 
-My research is mainly about the topics in analysis, PDE, mathematical physics, and probability inspired by and used in the theory of complex systems. 
+My research is mainly about the topics in analysis, probability, mathematical physics, and PDE inspired by and used in the theory of complex systems. 
 
 I have dealt with infinite-dimensional analysis, applications of methods of functional analysis and probability theory to mathematical physics, random measures, stochastic dynamics, and mathematical biology. Currently, I am actively working on the study of non-local evolution equations arising as scaling limits for stochastic dynamics of the considered complex systems.
 
