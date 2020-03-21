@@ -7,7 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: true
 publication: "*Advances in Applied Probability*"
-url_pdf: "https://doi.org/10.1017/apr.2018.18"
 doi: "10.1017/apr.2018.18"
 ---
 

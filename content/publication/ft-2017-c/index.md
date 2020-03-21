@@ -7,7 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Applicable Analysis*"
-url_pdf: "http://dx.doi.org/10.1080/00036811.2017.1400537"
 doi: "10.1080/00036811.2017.1400537"
 ---
 
