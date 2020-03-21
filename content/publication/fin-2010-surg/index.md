@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Methods Funct. Anal. Topology*"
+url_pdf: "http://mfat.imath.kiev.ua/article/?id=604"
 ---
 

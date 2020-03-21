@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Russ. J. Math. Phys.*"
+doi: "10.1134/S1061920814040037"
 ---
 

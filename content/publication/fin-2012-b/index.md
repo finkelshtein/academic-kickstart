@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Ukrainian Math. J.*"
+doi: "10.1007/s11253-013-0760-3"
 ---
 
