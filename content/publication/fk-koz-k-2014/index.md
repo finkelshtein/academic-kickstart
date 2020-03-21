@@ -6,7 +6,7 @@ authors: ["Dmitri Finkelshtein", "Yuri Kondratiev", "Yuri Kozitsky", "Oleksandr 
 publication_types: ["2"]
 abstract: ""
 featured: true
-publication: "*Math. Models Methods Appl. Sci.*"
+publication: "*Math. Models Methods Appl. Sci*"
 # tags: ["relevant", "prio1"]
 doi: "10.1142/S0218202515500128"
 ---

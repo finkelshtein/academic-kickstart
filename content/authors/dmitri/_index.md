@@ -75,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-I'm an Associate Professor at the <a href="https://www.swansea.ac.uk/maths/" target="_blank">Department of Mathematics</a> in <a href="https://www.swansea.ac.uk/" target="_blank">Swansea University</a>.
+I'm an Associate Professor in the <a href="https://www.swansea.ac.uk/maths/" target="_blank">Department of Mathematics</a> at <a href="https://www.swansea.ac.uk/" target="_blank">Swansea University</a>.
 
 My research is mainly about the topics in analysis, PDE, mathematical physics, and probability inspired by and used in the theory of complex systems. 
 
