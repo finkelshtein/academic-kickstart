@@ -7,6 +7,5 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*The European Physical Journal Special Topics*"
-# tags: ["relevant", "prio1"]
 ---
 

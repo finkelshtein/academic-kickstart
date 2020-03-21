@@ -7,6 +7,5 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Methods Funct. Anal. Topology*"
-# tags: ["relevant", "prio1"]
 ---
 

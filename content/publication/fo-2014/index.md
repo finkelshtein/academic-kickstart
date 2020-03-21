@@ -7,6 +7,5 @@ publication_types: ["6"]
 abstract: ""
 featured: false
 publication: "*From Particle Systems to Partial Differential Equations*"
-# tags: ["relevant", "prio1"]
 ---
 

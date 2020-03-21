@@ -7,6 +7,5 @@ publication_types: ["6"]
 abstract: ""
 featured: false
 publication: "*Symmetry in nonlinear mathematical physics. Part 1, 2, 3*"
-# tags: ["fdl", "relevant", "prio1"]
 ---
 

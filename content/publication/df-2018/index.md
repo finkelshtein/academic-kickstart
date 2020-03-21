@@ -7,7 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*J. Statistical Physics*"
-# tags: ["relevant", "prio1"]
 url_pdf: "https://doi.org/10.1007/s10955-018-2159-x"
 doi: "10.1007/s10955-018-2159-x"
 ---

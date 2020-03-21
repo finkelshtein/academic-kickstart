@@ -7,7 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Random Oper. Stoch. Equ.*"
-# tags: ["fdl", "relevant", "prio1"]
 doi: "10.1515/rose.2007.007"
 ---
 

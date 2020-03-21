@@ -7,7 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*J. Funct. Anal.*"
-# tags: ["fdl", "relevant", "prio1"]
 doi: "doi:10.1016/j.jfa.2011.11.005"
 ---
 

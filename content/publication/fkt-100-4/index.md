@@ -7,7 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Comptes Rendus Mathematique*"
-# tags: ["relevant", "prio1"]
 url_pdf: "https://doi.org/10.1016/j.crma.2019.04.007"
 doi: "10.1016/j.crma.2019.04.007"
 ---

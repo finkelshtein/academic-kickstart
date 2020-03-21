@@ -7,7 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Theoretical Ecology*"
-# tags: ["relevant", "prio1"]
 doi: "10.1007/s12080-013-0202-8"
 ---
 

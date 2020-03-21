@@ -7,7 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Journal of Elliptic and Parabolic Equations*"
-# tags: ["relevant", "prio1"]
 url_pdf: "https://doi.org/10.1007/s41808-019-00045-w"
 ---
 
