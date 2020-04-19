@@ -1,6 +1,6 @@
 ---
 title: "Second order differential operators on the configuration spaces"
-date: 2004-01-01
+date: 2004-05-01
 publishDate: 2020-03-20T15:17:50.392000Z
 authors: ["Dmitri Finkelshtein"]
 publication_types: ["6"]
