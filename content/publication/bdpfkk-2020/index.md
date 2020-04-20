@@ -5,7 +5,7 @@ publishDate: 2020-04-19T10:49:21+01:00
 authors: ["Viktor Bezborodov", "Luca Di Persio",  "Dmitri Finkelshtein", "Yuri Kondratiev", "Oleksandr Kutoviy"]
 publication_types: ["2"]
 abstract: ""
-featured: true
+featured: false
 publication: "*Stochastics and Dynamics*"
 doi: "10.1142/S0219493720500380"
 ---
